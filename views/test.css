@@ -1,0 +1,432 @@
+
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+    <meta content='RP is a small scale digital type-foundry established in 2009 by Radim Peško. The foundry is focused on the development of fonts that are both formally and conceptually distinctive.' name='description' />
+    <meta content='Tomáš Celizna &amp; RP' name='author' />
+    <title>
+      RP - Fonts - Specta
+    </title>
+    <!-- 
+      Design and programming:
+      Tomáš Celizna & RP
+      v1.5 15/10/2010 (Launched 05/01/2010)
+      This website was built in Ruby on Rails.
+    -->
+    <script src="/assets/jquery.js?1362647441" type="text/javascript"></script>
+    <script src="/assets/jquery_plugins.js?1362647440" type="text/javascript"></script>
+    <script src="/assets/web.js?1362647440" type="text/javascript"></script>
+    <link href="/assets/web.css?1362647440" media="screen" rel="stylesheet" type="text/css" />
+    <link href="http://www.radimpesko.com/news.xml" rel="alternate" title="RSS" type="application/rss+xml" />
+    <link rel='icon' type='image/png' href='/images/favicon_6.png' />
+    <link rel='apple-touch-icon' type='image/png' href='/images/rp_web_touch_icon.png' />
+    <script type='text/javascript'>window._auth_token_name = 'authenticity_token';window._auth_token = 'rM9Vcd7zwlsOAm7ZGZr9qjxrUWa2Lx+FQlEKx7NkC8E=';</script>
+  </head>
+  <body class='bg_color' style='background-color: #ffffff'>
+    <div id='family_preview'>
+      <script type='text/javascript'>
+        //<![CDATA[
+          $(window).load(function(){ $.ajax({data:'area_width='+($('#family_preview').innerWidth()-40)+'&area_height='+($('#family_preview').innerHeight()-40)+'&family_id=14' + '&authenticity_token=' + encodeURIComponent('rM9Vcd7zwlsOAm7ZGZr9qjxrUWa2Lx+FQlEKx7NkC8E='), dataType:'script', type:'get', url:'/feed_entries/14427160'}) });
+        //]]>
+      </script>
+    </div>
+    <ul class='specta' id='family_nav'>
+      <li class='nav index'>
+        <div class='empty_button txt_color' id='index' style='color: #101010'>
+          <a href="/fonts">Index</a>
+        </div>
+      </li>
+      <li class='nav'>
+        <div class='dropdown' id='families'>
+          <div class='panel' style='display: none'>
+            <div class='background'>
+              <ul class='families'>
+                <li class='family' id='family_10'>
+                  <a href="/fonts/boymans"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="BOYMANS" src="http://www.radimpesko.com/images/faces/45/28/202020/0/50/0042004f0059004d0041004e0053.png?authenticity_token=d3b1aaaf3daa356d59428074449e04457ed053f9" style="margin: -14px;margin-top: -14px;margin-right: -7px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="ABCABCABCABC..." src="http://www.radimpesko.com/images/faces/45-46-47-53-52-54-48-49-50-39-41-40-42-44-43-36-38-37-55-56-57-60/28/202020/0/50/004100420043004100420043004100420043004100420043002e002e002e.png?authenticity_token=37bd8d88c20c6b059a07b2ad24e9d1d6450b0a61" style="margin: -14px;margin-top: -14px;margin-right: -7px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_1'>
+                  <a href="/fonts/correspondance"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Correspondance" src="http://www.radimpesko.com/images/faces/1/28/202020/0/50/0043006f00720072006500730070006f006e00640061006e00630065.png?authenticity_token=c4aca5e611d31524dd86e64e8aaaedf0b5c93a91" style="margin: -14px;margin-top: -11px;margin-right: -7px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="B" src="http://www.radimpesko.com/images/faces/1/28/202020/0/50/0042.png?authenticity_token=48783d5b0cf5a53f034a40755462a653705ac1c9" style="margin: -14px;margin-top: -11px;margin-right: -7px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_19'>
+                  <a href="/fonts/dear-sir-madam"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Dear Sir/Madam" src="http://www.radimpesko.com/images/faces/95/28/202020/0/50/00440065006100720020005300690072002f004d006100640061006d.png?authenticity_token=ccdfa3dba57ca17979e744f6b1cb182303fb41b0" style="margin: -14px;margin-top: -6px;margin-right: -7px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="R" src="http://www.radimpesko.com/images/faces/95/28/202020/0/50/0052.png?authenticity_token=a36b3290cb3459e62b6cfff64ec9c8c8f4b21f41" style="margin: -14px;margin-top: -6px;margin-right: -7px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_2'>
+                  <a href="/fonts/f-grotesk"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="F Grotesk" src="http://www.radimpesko.com/images/faces/93/28/202020/0/50/0046002000470072006f007400650073006b.png?authenticity_token=ab664574e89951d018942ed287e9a8381079db08" style="margin: -14px;margin-top: -7px;margin-right: -8px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="TTIBBIDDIBBI" src="http://www.radimpesko.com/images/faces/93-94-94-18-19-19-20-21-21-22-23-23/28/202020/0/50/005400540049004200420049004400440049004200420049.png?authenticity_token=b8c15bb329b632f6b1cc46acaecab3e54317629b" style="margin: -14px;margin-top: -7px;margin-right: -8px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_9'>
+                  <a href="/fonts/fugue"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Fugue" src="http://www.radimpesko.com/images/faces/86/28/202020/0/50/00460075006700750065.png?authenticity_token=a6f6cf15893aac56788ae27dae8273c39f1ac2f8" style="margin: -14px;margin-top: -10px;margin-right: -7px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="RRIMH" src="http://www.radimpesko.com/images/faces/86-87-87-88-89/28/202020/0/50/005200520049004d0048.png?authenticity_token=291bda7e849a01416eb33da6d3fcb482f2a4dfd6" style="margin: -14px;margin-top: -10px;margin-right: -7px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_18'>
+                  <a href="/fonts/larish-alte"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Larish Alte" src="http://www.radimpesko.com/images/faces/90/28/202020/0/50/004c0061007200690073006800200041006c00740065.png?authenticity_token=4a541bff348ab1d831bf9cbdfcf2a3e9aa0644e8" style="margin: -14px;margin-top: -10px;margin-right: -7px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="Sb" src="http://www.radimpesko.com/images/faces/90-90/28/202020/0/50/00530062.png?authenticity_token=2b6ea611b6a853cb97b406128bf3c92affea3224" style="margin: -14px;margin-top: -10px;margin-right: -7px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_3'>
+                  <a href="/fonts/larish-neue"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Larish Neue" src="http://www.radimpesko.com/images/faces/84/28/202020/0/50/004c006100720069007300680020004e006500750065.png?authenticity_token=5dd65b496ef4d85aca0cbfa9b8f81027e7e2febd" style="margin: -14px;margin-top: -8px;margin-right: -5px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="SbSbI" src="http://www.radimpesko.com/images/faces/84-84-85-85-85/28/202020/0/50/00530062005300620049.png?authenticity_token=303064b56cf1217429fe4661b35f3fc0fe8b861f" style="margin: -14px;margin-top: -8px;margin-right: -5px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_20'>
+                  <a href="/fonts/lyno"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Lÿno" src="http://www.radimpesko.com/images/faces/98/28/ff0000/0/50/004c00ff006e006f.png?authenticity_token=31f1562aa97595ea32f4b27c1b32f689ceb83352" style="margin: -14px;margin-top: -11px;margin-right: 0px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="JSUW" src="http://www.radimpesko.com/images/faces/96-97-98-99/28/ff0000/0/50/004a005300550057.png?authenticity_token=f38129dfa81676a731a218fd7cbc02b7ba606e4b" style="margin: -14px;margin-top: -11px;margin-right: 0px;" />
+                      </td>
+                      <td class='col3'>
+                        NEW
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_7'>
+                  <a href="/fonts/mercury"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Mercury" src="http://www.radimpesko.com/images/faces/29/28/202020/0/50/004d006500720063007500720079.png?authenticity_token=171ee4f547b87977c0e41d6347fa01869870b040" style="margin: -14px;margin-top: -9px;margin-right: -8px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="LLIRRIMMIBBI" src="http://www.radimpesko.com/images/faces/30-27-27-68-69-69-29-28-28-67-70-70/28/202020/0/50/004c004c0049005200520049004d004d0049004200420049.png?authenticity_token=84f59c789ba1364155f822f0a121f60e3b91248a" style="margin: -14px;margin-top: -9px;margin-right: -8px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_5'>
+                  <a href="/fonts/mitim"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Mitim" src="http://www.radimpesko.com/images/faces/91/28/202020/0/50/004d006900740069006d.png?authenticity_token=08b62112c54de04ac87ec2cc3e9ffe2e07774eff" style="margin: -14px;margin-top: -6px;margin-right: -7px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="TTILLIKEM" src="http://www.radimpesko.com/images/faces/9-73-73-91-92-92-72-71-35/28/202020/0/50/005400540049004c004c0049004b0045004d.png?authenticity_token=beeba39d7aaf9438cb7de17851ca7676610242ee" style="margin: -14px;margin-top: -6px;margin-right: -7px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_12'>
+                  <a href="/fonts/septima"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Septima" src="http://www.radimpesko.com/images/faces/34/28/202020/0/50/00530065007000740069006d0061.png?authenticity_token=179e34042302ac8eaefcb1e9b535c014c843599f" style="margin: -14px;margin-top: -10px;margin-right: 1px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="Mono" src="http://www.radimpesko.com/images/faces/34-34-34-34/28/202020/0/50/004d006f006e006f.png?authenticity_token=2489f29f62cd3fb095fb502b2a6d64819b2fb221" style="margin: -14px;margin-top: -10px;margin-right: 1px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_15'>
+                  <a href="/fonts/sol"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Sol" src="http://www.radimpesko.com/images/faces/76/28/202020/0/50/0053006f006c.png?authenticity_token=ed9278b1181ebd746242ac94285773a8d396b3a3" style="margin: -14px;margin-top: -6px;margin-right: -1px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="SW" src="http://www.radimpesko.com/images/faces/75-76/28/202020/0/50/00530057.png?authenticity_token=5d04a6ce9255fc63ef9d4c4dc1e03eea2cb687fd" style="margin: -14px;margin-top: -6px;margin-right: -1px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family selected' id='family_14'>
+                  <a href="/fonts/specta"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Specta" src="http://www.radimpesko.com/images/faces/74/28/202020/0/50/005300700065006300740061.png?authenticity_token=91654ffa7f0e72767030ccde370518b36c510e86" style="margin: -14px;margin-top: -6px;margin-right: -6px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="T" src="http://www.radimpesko.com/images/faces/74/28/202020/0/50/0054.png?authenticity_token=5e2fd57a7b49fe02eeff721193d98033df3ecbad" style="margin: -14px;margin-top: -6px;margin-right: -6px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+                <li class='family' id='family_4'>
+                  <a href="/fonts/union"><table>
+                    <tr>
+                      <td class='col1'>
+                        <img alt="Union" src="http://www.radimpesko.com/images/faces/8/28/202020/0/50/0055006e0069006f006e.png?authenticity_token=c4be0f4bb7092edd5858b622ee381a2d46a9061c" style="margin: -14px;margin-top: -6px;margin-right: -6px;" />
+                      </td>
+                      <td class='col2'>
+                        <img alt="RRIBBI" src="http://www.radimpesko.com/images/faces/26-25-25-8-24-24/28/202020/0/50/005200520049004200420049.png?authenticity_token=83a564fe3f792f9de037023b92fc3e6e50b255fd" style="margin: -14px;margin-top: -6px;margin-right: -8px;" />
+                      </td>
+                      <td class='col3'>
+                        
+                      </td>
+                    </tr>
+                  </table>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class='button'>
+            <div class='outside'>
+              <div class='inside'>
+                Specta
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li class='nav'>
+        <div class='empty_button txt_color' style='color: #101010'>
+          Tee
+        </div>
+      </li>
+      <li class='nav'>
+        <div class='dropdown' id='options'>
+          <div class='panel' style='display: none'>
+            <div class='background'>
+              <ul class='text_case'>
+                <li class='clear uppercase'>
+                  <input class="text_case" id="uppercase" name="uppercase" type="checkbox" value="uppercase" /><label for="uppercase">UPPERCASE</label>
+                </li>
+                <li class='clear lowercase'>
+                  <input class="text_case" id="lowercase" name="lowercase" type="checkbox" value="lowercase" /><label for="lowercase">lowercase</label>
+                </li>
+              </ul>
+              <ul class='waterfall'>
+                <li class='waterfall clear'>
+                  <input class="waterfall" id="waterfall" name="waterfall" type="checkbox" value="waterfall" /><label for="waterfall">Waterfall</label>
+                </li>
+              </ul>
+              <ul class='colors nowrap'>
+                <li class='color_code' id='C0' style='background-color: #f5f5f5;'>
+                  &nbsp;
+                </li>
+                <li class='color_code' id='C33' style='background-color: #b2b2b2;'>
+                  &nbsp;
+                </li>
+                <li class='color_code' id='C66' style='background-color: #454545;'>
+                  &nbsp;
+                </li>
+                <li class='color_code' id='C100' style='background-color: #101010;'>
+                  &nbsp;
+                </li>
+                <li class='color_code' id='CR' style='background-color: #f01010;'>
+                  &nbsp;
+                </li>
+                <li class='color_code' id='CG' style='background-color: #70f030;'>
+                  &nbsp;
+                </li>
+                <li class='color_code' id='CB' style='background-color: #0030f0;'>
+                  &nbsp;
+                </li>
+              </ul>
+              <div class='clear'></div>
+            </div>
+          </div>
+          <div class='button'>
+            <div class='outside'>
+              <div class='inside'>
+                <ul class='options'>
+                  <li class='uppercase'>
+                    A
+                  </li>
+                  <li class='lowercase'>
+                    a
+                  </li>
+                  <li class='waterfall'>
+                    W
+                  </li>
+                  <li class='color_swatch' style='background-color:#f5f5f5'>
+                    <div>
+                      &nbsp;
+                    </div>
+                  </li>
+                </ul>
+                <br class='clear' />
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li class='nav'>
+        
+      </li>
+      <li class='nav'>
+        
+      </li>
+      <li class='nav'>
+        
+      </li>
+      <li class='nav right'>
+        <div class='empty_button txt_color' id='index' style='color: #101010'>
+          <a href="http://artforum.com/" class="feed_source_link" title="Text source at Artforum">&hellip;</a>
+        </div>
+      </li>
+    </ul>
+    <div class='clear'></div>
+    <div class='txt_color' id='family_fold' style='color: #101010'>
+      <div class='description'>
+        <p>Specta is a&nbsp;typeface exclusively developed for identity of Eastside Projects in Birmingham, responding to its program and need. Specta is a&nbsp;work in progress. With thanks to James Langdon &amp; Gavin Wade. <br />
+        See updates soon!</p>
+        <p>Specta is not available for purchase.</p>
+        <p>
+          Specta is displayed on headlines from <a href="http://artforum.com/" class="feed_source_link nowrap">Artforum</a>.
+        </p>
+      </div>
+      <ul id='icons'>
+        
+        
+      </ul>
+    </div>
+    <div class='txt_color' id='copy' style='color: #101010'>
+      &copy; 2001&ndash;2013 <a href="/about">RP Digital Foundry</a>, Lÿno &copy; 2009&ndash;2013 KN &amp; RP. All rights reserved, including the right of reproduction in whole or in part in any form.<br />All typefaces designed by RP between 2001 and 2013. Lÿno designed by Karl Nawrot and Radim Peško between 2009 and 2012.<br />Please do not distribute fonts illegally.
+    </div>
+    <script type="text/javascript">
+    	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    
+    <script type="text/javascript">
+    	var pageTracker = _gat._getTracker("UA-6194709-2");
+    	pageTracker._trackPageview();
+    </script>
+    <script type="text/javascript">
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '4e0a1a4ff5a1f51f11000001');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+    <!--[if IE 6]> 
+      <script type="text/javascript" src="http://shapeshed.github.com/ie6-notice/ie6notice-1.0.0.min.js"></script>
+    <![endif]-->
+  <!-- added by the jsvars plugin -->
+    <script type='text/javascript'>
+         var jsvars = { objExtend: function (mainObject) { for (var i = 1; i < arguments.length; i += 1) { for (prop in arguments[i]){ if (arguments[i].hasOwnProperty(prop)) { mainObject[prop] = (arguments[i][prop]); } } } return mainObject; } }  
+        
+                        if (typeof(preview) === 'object') {
+                            jsvars.objExtend(preview, {"horizontal_padding":40,"vertical_padding":40});
+                        }
+                        else {
+                            var preview = {"horizontal_padding":40,"vertical_padding":40};
+                        }
+                        
+                        if (typeof(colors) === 'object') {
+                            jsvars.objExtend(colors, {"tester":{"bg_color":"bcd6fd","link_color":"101010","txt_color":"101010"},"C0":{"bg_color":"ffffff","link_color":"101010","txt_color":"101010"},"C66":{"bg_color":"454545","link_color":"ffffff","txt_color":"ffffff"},"C33":{"bg_color":"b2b2b2","link_color":"101010","txt_color":"101010"},"CG":{"bg_color":"70f030","link_color":"101010","txt_color":"101010"},"CR":{"bg_color":"f01010","link_color":"ffffff","txt_color":"ffffff"},"C100":{"bg_color":"101010","link_color":"ffffff","txt_color":"ffffff"},"CB":{"bg_color":"0030f0","link_color":"ffffff","txt_color":"ffffff"}});
+                        }
+                        else {
+                            var colors = {"tester":{"bg_color":"bcd6fd","link_color":"101010","txt_color":"101010"},"C0":{"bg_color":"ffffff","link_color":"101010","txt_color":"101010"},"C66":{"bg_color":"454545","link_color":"ffffff","txt_color":"ffffff"},"C33":{"bg_color":"b2b2b2","link_color":"101010","txt_color":"101010"},"CG":{"bg_color":"70f030","link_color":"101010","txt_color":"101010"},"CR":{"bg_color":"f01010","link_color":"ffffff","txt_color":"ffffff"},"C100":{"bg_color":"101010","link_color":"ffffff","txt_color":"ffffff"},"CB":{"bg_color":"0030f0","link_color":"ffffff","txt_color":"ffffff"}};
+                        }
+                         
+    </script>
+<!-- end jsvars plugin code --></body>
+</html>
